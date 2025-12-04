@@ -1,2 +1,2 @@
-# MiniCashtabserverdatapack
+# MiniCashtanserverdatapack
 tan鯖データパック
