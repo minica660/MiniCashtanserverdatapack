@@ -1,7 +1,7 @@
 {
     "values": [
         "d:slot/tenshiakuma/tick",
-        "d:shift/tick",
+        "d:speed/tick",
         "d:climb/tick"
     ]
 }
